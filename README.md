@@ -80,7 +80,3 @@ This project helped me practice:
 * Display BMI history
 * Improve the user interface
 * Generate health reports
-
-## Author
-
-Tek Chanvisal
