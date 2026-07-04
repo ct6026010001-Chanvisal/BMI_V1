@@ -1,4 +1,7 @@
 # BMI Management System
+Nen Somana, Rath Somekha, Kong Alita, Khemsan Pisey, 
+Lach Solady, Keomony sovan, Chhin Keokannitha, Tek Chanvisal, 
+Nov Sovannmakara, Hou EangKhadem,
 
 ## Overview
 
