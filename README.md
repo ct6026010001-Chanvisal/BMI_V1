@@ -54,6 +54,8 @@ BMI = Weight (kg) ÷ Height² (m²)
 ```
 === BMI Management System ===
 
+Enter your age: 19
+Enter your gender (male/female): male
 Enter your weight (kg): 70
 Enter your height (m): 1.75
 
