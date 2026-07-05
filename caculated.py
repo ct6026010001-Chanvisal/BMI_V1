@@ -15,7 +15,7 @@ def classify_bmi(bmi):
 
 def run():
     print("=== BMI Management System ===")
-    age = float(input("Enter your name: "))
+    age = float(input("Enter your age: "))
     gender = float(input("Enter your gender (male/famele): "))
     weight = float(input("Enter your weight (kg): "))
     height = float(input("Enter your height (m): "))
