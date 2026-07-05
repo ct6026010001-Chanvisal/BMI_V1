@@ -1,7 +1,7 @@
 # BMI Management System
 Group Members : Nen Somana, Rath Somekha, Kong Alita, Khemsan Pisey, 
-Lach Solady, Keomony sovan, Chhin Keokannitha, Tek Chanvisal, 
-Nov Sovannmakara, Hou EangKhadem,
+Lach Solady, Keomony Sovann, Chhin Keokannitha, Tek Chanvisal, 
+Nov Sovannmakara, Hou EangKhadem, Lyheng Chray, Rith Soketya
 
 ## Overview
 
