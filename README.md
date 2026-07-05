@@ -11,6 +11,7 @@ This project was created as part of a Computer Fundamentals course to practice P
 
 ## Features
 
+* Enter a user's name, age and gender
 * Enter a user's weight and height
 * Calculate BMI using the standard formula
 * Display the BMI value
